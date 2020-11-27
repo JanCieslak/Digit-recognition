@@ -18,4 +18,4 @@ Luckily, after those few seconds everything should work smoothly.)
 
 ### It should look something like that:
 
-![Example](./resources/screenshot.png)
+![Example](./resources/screenshot.PNG)
