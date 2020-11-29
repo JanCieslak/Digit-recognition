@@ -5,6 +5,7 @@ knowledge of machine learning.
 
 The project uses:
  - Kotlin
+ - No additional libraries
  - MNIST dataset
  - Java swing library for drawing
  - K-NN algorithm for detecting which digit has been drawn
