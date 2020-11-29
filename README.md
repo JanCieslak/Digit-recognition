@@ -14,7 +14,7 @@ The project uses:
 Before you run the program you have to extract the images. You can do that by runnig PrepareData.kt file.
 (You might have to create the folders for those images e.g. resources/images/0, resources/images/1, ...)
 
-# How does it work
+# How do you use it
 You just simply run the program and swing window should pop-up, then draw something
 in the white area and press the button to perform the algorithm. When the algorithm finishes
 the result should be visible in the console. (The program might need a few seconds to load all the image data,
