@@ -1,4 +1,4 @@
-# NumberGuesser
+# Digit recognition
 
 This was a one-day project with a goal to make something useful with the basic 
 knowledge of machine learning. 
